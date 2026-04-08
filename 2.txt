@@ -46,6 +46,7 @@ The Entity Passes: A UN guard standing near the laser cage abruptly collapses to
 The bass-hum peaks, shivering through the audience’s ribs.
 The Visual Reveal: The perfectly straight red lasers shatter violently. They refract wildly into brilliant, flickering prismatic rainbows as they slam against the invisible density curve of an object moving seamlessly through the lab.
 The Causal Graph Topology: Maya has rigged the scattered light feed into Elias's predictive AI, projecting the raw topographical shape on a monitor. It is impossibly massive, fluid, silent, plunging straight down from the ceiling into the foundation of the Earth at immense speed, casting a terrifyingly intricate fractal silhouette. And then, as the low rumble fades out—it’s gone.
+Elias glances from his wristwatch to the timestamp on the AI render. For a beat, the two clocks disagree by 0.4 seconds. Then the digital feed snaps back into sync.
 ACT V: The Unwitting Spotlight
 The red grid hums smoothly again. The room goes still. The guard gasps on the floor, dry-heaving from the pressure displacement.
 Elias is breathless, hyper-focused. He taps his laptop, immediately dumping Maya’s localized telemetry readouts from the event and merging them with the wall of global seismic files Cole provided.

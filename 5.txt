@@ -11,7 +11,7 @@ INT. MILITARY SUBMERSIBLE (Three miles deep): The cramped, freezing cabin is ill
 Inside are Marcus Cole (his broken arm secured in a metal brace, operating solely on painkillers and tactical focus), Dr. Maya Lin (irradiated, guilty, pale), and Dr. Elias Vance (manic, clutching his laptop, vibrating with obsession).
 The Physics Context: Outside the reinforced titanium hull, a rhythmic, bone-rattling boom vibrates through the freezing water column. The Entity is pulsing its mass beneath the seabed. With every pulse, the cabin pressure spikes painfully. Elias rubs his bleeding ears.
 (TITLE CARD: 85%)
-ACT II: Hardware as Conflict (The Man-In-The-Middle Attack)
+ACT II: Hardware as Conflict (The Forced Recovery Handshake)
 INT. SUBMERSIBLE - CONTINUOUS
 Cole is operating as a tactical commander. The UN demands a target coordinate for the trapped mass.
 Cole: "Dr. Lin, sync the X17 array's chiral output directly to the weapons terminal. Paint the density core for me."
@@ -20,10 +20,10 @@ The Conflict: Without a word, Maya leans under the console and violently yanks t
 Cole lunges forward with his good arm, grabbing her. Cole: "What did you just do? That is UN equipment, Maya."
 Maya: "The X17 bridge is now receive-only, Marcus. We’re not dropping another match on a powder keg."
 Cole threatens her with a court-martial. Maya ignores him. She knows Cole won't shoot her; she is the only person who can write the code to interpret the dark mass. The tension in the tiny space is explosive.
-The Hack: Maya treats the booming gravitational pulses not as language, but as cyber-security.
+The Exploit: Maya treats the booming gravitational pulses not as language, but as a damaged recovery protocol.
 Maya: "It's repeating a carrier frequency. It's not trying to talk to us; it's a black box trying to ping a server."
 She says it almost to herself as the script compiles: if the 85% navigates by handshakes, route identity, and state verification, then being seen by them may have less to do with speech than with whether you register as a valid kind of thing.
-She builds a rapid script using the X17 polymer’s resonant frequency to spoof a handshake protocol. She initiates a brute-force man-in-the-middle attack to intercept the drone’s raw navigation log.
+She builds a rapid script using the X17 polymer’s resonant frequency to force a carrier-phase match with the drone's blind re-authentication loop. She is not breaking alien encryption; she is parasitizing a crippled machine screaming for route re-entry. The damaged protocol leaks raw navigational geometry into her capture buffer.
 ACT III: The Pressure Rises (Structural and Intellectual Collapse)
 The Physical Ticking Clock: The moment Maya forces the handshake across the dimension, the localized gravity surrounding the submersible goes insane.
 The Entity, detecting the bridge, actively pulls on the X17 tether.
@@ -31,8 +31,8 @@ The Visceral Horror: A wrench on a console rolls steadily, unstoppably uphill ac
 The three-inch-thick titanium wall groans deafeningly, beginning to visibly bow inward as if being squeezed by an invisible hand. Gravity has ripped sideways by 2Gs.
 Cole has to physically brace Elias against a tilted bulkhead as Maya furiously types to download the routing logs before the submersible literally folds in half around them.
 One clamp on Maya's jury-rigged interface shakes loose under the lateral pull. Without being asked, Elias catches the cable with one hand, slams his laptop under the housing to hold it in place, and starts calling out the packet structure from the raw stream. It is the first time since Basel that they are operating like one machine instead of two damaged egos.
-Maya: "I have the packet! Decrypting!"
-The Data Transfer: She isolates the raw coordinate payload from the alien drone and transfers the raw data packet directly to Elias's orbital-tracking laptop.
+Maya: "I have the geometry! Pulling the drift tables now!"
+The Data Transfer: She isolates the raw coordinate payload from the drone's recovery burst and transfers the navigational geometry directly to Elias's orbital-tracking laptop. One line of telemetry arrives stamped 19 milliseconds before the handshake pulse that generated it. Maya sees it, mutters "temporal jitter," and keeps working because the hull is folding around them.
 Maya severs the X17 bridge. The sub violently levels out, pitching the three of them to the floor as Earth's natural gravity abruptly reasserts control. The groaning metal stops.
 Maya looks over at the improvised mess of Elias's laptop wedged into her hardware and, for the first time in the series, trusts him with a quick, unguarded nod before they turn back to the screen.
 ACT IV: A First-Time Accident (The Silent Revelation)
