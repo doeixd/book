@@ -1,0 +1,95 @@
+EPISODE 1: "THE TRIGGER GAP"
+TEASER: The Loss of Down
+EXT. PACIFIC OCEAN - 35,000 FEET - DAY
+A commercial 777 passenger jet cruises over open water. Flight attendants pour coffee. A teenager plays a game on their phone.
+The Sensory Grammar (The Hum): There is no score. The horror begins audibly. A deep, bone-rattling, sub-bass vibration hums upward from the floorboards. The coffee in the cups shimmers with concentric rings. The passengers feel it in their feet, then their ribs, then their teeth ache. The threat is always below.
+The Anomaly: Without a whisper of turbulence, the coffee stops pouring and hovers. The teenager’s phone suddenly weighs twenty pounds, slipping from their fingers and cracking the floor plastic. Passengers are violently shoved deep into their seats. Cabin gravity instantly spikes to 3Gs.
+The plane doesn’t dive; the sky pulls it. The pilots fight the yoke as the altimeter screams. They plummet 8,000 feet in three agonizing seconds.
+Just as suddenly, weightlessness. The coffee splatters the ceiling. The subsonic thrum vanishes.
+The Spacetime Bruise: The pilots level out, gasping for air. They look out the cockpit window at the ocean.
+Directly beneath them, stretching to the horizon, the Pacific is parted in a perfectly straight, 50-foot-deep, dry-bottomed trench.
+Whatever carved it is already gone. But the ocean is unnaturally held back in sheer, towering liquid cliffs. The vacuum of spacetime has been bruised. Slowly, agonizingly, physics reasserts itself. The massive water walls crash back together in a chaotic, frothing scar of white water.
+(TITLE CARD: 85% — Dead silence)
+ACT I: The Analog Obsessive
+INT. CERN, SWITZERLAND - LHCb DATA CENTER - 3:00 AM
+Dr. Elias Vance (30s) sits alone in a humming, neon-lit server farm, surrounded by empty espresso cups. He is twitchy, abrasive, and fiercely isolated.
+The Setup (The Watch): Amidst petabytes of digital supercomputing, Elias rolls up his sleeve to check the time. He looks at a worn, analog, mechanical winding wristwatch. Tick. Tick. It establishes him as a man who trusts physical, mathematical mechanics over digital abstraction.
+The Incident: He monitors the "Trigger Algorithm"—the AI filtering code that auto-deletes low-energy collision debris. The AI flashes an IMPOSSIBLE GEOMETRY warning and moves to purge a 20 GeV file.
+Elias glares at the screen, offended that a machine is deleting perfectly structured math just because it doesn't fit the Standard Model. He violently overrides the protocol, locking the master console.
+The Discovery: A 3D model renders a proton collision. Billions of debris lines shoot outward from the exact center. But two lines—an electron and positron—appear randomly, 5 millimeters away from the crash, in pure empty space. A Displaced Vertex.
+He scrambles to a whiteboard. The marker screeches in the silent room as he calculates the invariant mass. He circles the result: 17 MeV.
+A particle that ignores the Strong Force and carries no electrical charge. A Dark Photon.
+He stares at the 17 MeV on the whiteboard. His hostility vanishes. For five long seconds, Elias looks genuinely, breathlessly awed. He has read the universe’s underlying code.
+The awe is fleeting. His arrogant obsession returns. He rips the hard drive from the terminal, bypassing protocol entirely. He needs an engineer, not a bureaucrat.
+INT. EUROPEAN HIGH-SPEED TRAIN - DAWN
+Elias sits on a crowded commuter train bound for Munich. Business people drink coffee, read news, entirely consumed by mundane life.
+Elias sits rigidly, vibrating with manic energy, his laptop open. He looks around the cabin with borderline disdain. These people are worried about spreadsheets; he knows the literal fabric of reality they are sitting on just broke. He is completely isolated by the sheer weight of his 15% revelation.
+ACT II: The Warmth and the Architect
+INT. MUNICH, GERMANY - APARTMENT - 4:30 AM
+A harsh cut from cold transit to messy biology.
+Dr. Maya Lin (40s) sits in a cluttered, dark living room, her shirt stained with spit-up, rocking a screaming one-year-old child.
+The child has one specific self-soothing habit: through the sobbing, she rhythmically taps two tiny fingers against Maya's collarbone, over and over, like she's checking that the world is still there.
+Her civilian husband, David (a paramedic in uniform), quietly takes the frantic baby so Maya can sleep. We hear the wet, erratic, highly complex sound of an infant breathing—a stark contrast to the sterile hum of CERN.
+David kisses Maya’s forehead. It’s an intimate display of warmth, friction, and electromagnetic touch. She is fiercely anchored to her messy, 15% life.
+INT. EXPERIMENTAL PHYSICS LAB - UNIVERSITY OF MUNICH - LATER
+Maya is back in her element, clad in heavy safety gear, precisely welding a massive superconducting plate inside a room-sized MRI-like magnetic rig.
+Elias barges into the secure lab, wild-eyed and sleep-deprived. He slams his laptop down, pulling up the 17 MeV data.
+Maya's face hardens before she even looks at the screen. "You don't get to vanish after Basel and walk back into my lab at dawn," she says. Basel was the last project they shared - a containment test Elias walked away from the moment the review board circled Maya for the failure. He left her to absorb the blast alone.
+He demands Maya use her super-chilled magnets to force a Kinetic Mixing reaction—to squeeze reality hard enough to synthesize a bridge to his Dark Photon.
+Maya (skeptical): "This is isolated dimensionality, Elias. The energy density required to stabilize chiral alignment for that mass… I’d have to blow the campus safety limiters and hijack the municipal industrial trunks just for a microsecond spark."
+Elias: "The AI threw it away. If we don’t synthesize a stable bridge to prove the metric exists, we go back to pretending 85% of reality is empty space. Look at the orbital timing."
+Elias points to a local Munich seismograph running in the background. A rhythmic, localized "micro-tremor" sweeps through the deep bedrock under the city every morning at 6:00 AM.
+Elias: "That’s not a geological fault, Maya. That is mass in transit. The gravitational variance perfectly aligns with my invariant decay math. It’s a commuting lane."
+The Hubris: Maya realizes he isn't asking her to make a particle from scratch. He’s asking her to aggressively position her magnetic trap directly in the path of the tremor, tearing a microscopic chunk off whatever invisible object passes through the bedrock beneath them.
+The arrogance of the engineering challenge overcomes her caution. She begins unlocking the high-voltage relay cabinets.
+ACT III: Stealing Fire (The Parasitic Synthesis)
+INT. MAYA’S LAB - DAWN
+Maya physically overrides the grid fail-safes.
+Elias tracks the approaching deep-mantle tremor on his monitor. It’s moving fast.
+Elias: "Transit crossing optimal depth in three... two..."
+Maya: "Engaging chiral field."
+She throws the breaker.
+The Cost of Physics: It doesn't just dim the campus lights. An entire municipal grid-sector of Munich violently browns out in cascading sparks. Outside, traffic lights die; a distant symphony of screeching tires and blaring horns begins. She has casually damaged a city for her experiment.
+Inside the heavy lead-glass containment cube, millions of volts funnel into an intensely screaming, rotating magnetic focal point.
+The Extraction: Deep below the floor, the seismic needle violently pegs in the red.
+A blinding, searing violet flash of Hawking radiation erupts inside the glass cube, overloading the room's cameras for a microsecond.
+The roaring magnet spools down. The city sirens wail outside.
+Suspended perfectly in the dead center of the magnetic field is a microscopic, dull black dot. A single, violently extracted grain of X17 Polymer.
+Maya stares at it, flushed with adrenaline, completely oblivious to what she just assaulted.
+ACT IV: The Heavy Silence
+INT. MAYA’S LAB - CONTINUOUS
+Maya walks to the control panel to release the suspension field.
+Maya: "Let’s see what the density holds at standard atmosphere."
+She turns the dial. The magnetic grip vanishes.
+The Incident: The dot does not bounce. It instantly, silently shatters straight through the 3-inch-thick lead-glass floor of the cube.
+The dot hits the heavy steel desk. The steel doesn’t explode—it screams in agonizing structural fatigue, buckling violently inward like foil being crushed by a bank vault.
+The microscopic dot shears cleanly through the desk, rips a flawless borehole through three feet of reinforced foundation concrete, and disappears endlessly toward the Earth's core.
+The Bruise Returns: As the X17 accelerates into the Earth, the local gravity permanently twists in its wake. Maya is violently thrown horizontally into a far wall, pinned as if the floor tilted 45 degrees. The rain hitting the skylight pulls fiercely, cleanly sideways.
+For ten terrifying, groaning seconds, Elias and Maya are crushed against the wall in the agonizing pressure of the "gravitational bruise."
+With a sickening pop in their ears, gravity violently snaps back. They fall heavily to the floor. The rain straightens.
+The Sound (The Consequence): Maya pants on the concrete. The alarms from her melted computers slowly short out and die.
+Then... the noise starts. It doesn't come from the broken desk.
+It comes from the floor. A deep, bone-rattling, familiar sub-bass Hum.
+The tremor under Munich didn’t just pass by. Elias looks at the frozen seismograph monitor. Maya accidentally bit an apex predator, and the predator just slammed on the brakes.
+ACT V: The Precision of Predators
+EXT. UNIVERSITY QUADRANGLE - NIGHT - CONTINUOUS
+Four unmarked, black UN military SUVs slice smoothly through the rain, surrounding the darkened physics building. Heavily armed troops fan out, quietly securing the perimeter.
+Director Marcus Cole (50s) steps out of the lead vehicle. He wears a tailored coat. He doesn't look angry; he looks methodically calm.
+INT. MAYA’S LAB - CONTINUOUS
+Maya trembles, staring at the flawless bore-hole in her ruined floor.
+Maya: "Elias... if a speck of density warped local gravity without radiating thermal heat..."
+The doors quietly swing open. Marcus Cole steps inside alone. He doesn’t command them to raise their hands. He completely ignores them.
+He walks smoothly to the edge of the crater in the steel desk. He pulls a specialized, heavy handheld gravimeter from his coat, aiming it into the hole.
+The Micro-Expression: The device pulses. We hold tight on Cole’s eyes. A fractional, suppressed flicker of cold recognition flashes across his face. He knows this gravitational decay-signature. He’s stared at it on his global maps for eight lonely months.
+He turns to the two terrified scientists. He didn't come to stop a rogue experiment; he came because someone finally built a trap for the monsters he has been hunting.
+EXT. THE QUADRANGLE / INT. THE LAB
+The Damage Spreads: Outside the ruined lab building, a lone university student sweeps a flashlight beam across the rain-slicked concrete. The beam illuminates a large puddle.
+Slowly, defying the slope of the pavement, the water is sliding uphill, drawn gently but permanently toward Maya's building. The localized gravitational fabric of Munich is forever tilted.
+The Cosmic Shift: The camera tilts up to the freezing, blacked-out night sky over the university. Directly above the lab, a cluster of starlight slightly, sickeningly bends into a faint circular prism of Vacuum Birefringence. The empty sky has fractured.
+Inside the lab, we find Elias kneeling next to his laptop amid the smoking wires. He isn’t staring at Cole or the armed soldiers. He is looking at his 17 MeV particle trap equation on the glowing screen.
+Elias looks up. The terror has completely vanished from his face. In its place is an ecstatic, obsessive, terrifying smile. He just provoked an invisible god, but his math is finally flawless.
+(CUT TO BLACK. Hold on the deep, ascending Subsonic Hum).
+Writer’s Final Notes for the Pilot:
+Sonic Branding: Reintroducing the sub-bass Hum after the chaotic desk-shattering establishes that the dark matter speck itself isn't noisy—the monstrous entity responding to it is. The auditory delay creates intense psychological dread.
+No Action Clichés: Cole’s calm, almost dismissive entrance cements him immediately as a Hyper-Competent antagonist/ally, separating him from tired "angry general" tropes.
+The Train Connects the Micro to the Macro: Elias commuting while obsessively refining the math physically bridges the isolated Swiss data-center with Maya’s sprawling, domestic Munich reality, heightening the scale of his arrogant isolation.

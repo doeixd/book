@@ -1,0 +1,76 @@
+EPISODE 6: "SIMULATION OF THE GODS"
+TEASER: The Kitchen Floor (The Loss of Down)
+(TITLE CARD: 14 MONTHS TO PERIHELION. The series title card should begin to feel subtly heavier here - dead silence, then the faintest visual tremor in the image, as if the mass is starting to press on the typography itself.)
+INT. SUBURBAN KITCHEN, SEATTLE - MORNING
+The scene is intensely domestic. A mother is making breakfast. Two young children are at the table, watching a cartoon on a tablet. The news plays softly in the background, a newscaster dryly reading off a list of "micro-gravity advisories" for the western seaboard. The blackout world has a stripped, pre-industrial quiet to it: no HVAC wash, no freeway murmur, just the spoon in the bowl, the dog breathing, the wind at the window.
+The Shift: The milk being poured into a cereal bowl stops falling straight down. It gracefully, silently arcs an inch to the right, splashing onto the linoleum.
+The Adjustment: The mother sighs, clearly accustomed to this bizarre new normal. She grabs a towel to wipe it up.
+Then, the wooden kitchen chairs slowly, smoothly slide two inches across the floor, scraping loudly against the tiles. The kids stop watching the tablet.
+The Horror of the Physics: A sixty-pound golden retriever, asleep under the table, wakes up confused. Its paws gently lift off the hardwood. The dog whimpers, silently floating six inches in the air, legs frantically, silently paddling.
+The children begin to scream in primal panic. The mother lunges forward, physically dragging her kids by the shirts under the heavy oak table, pinning them down with her body weight as the kitchen hangs suspended in a 10-second lateral gravity shear.
+The anomaly passes. The dog drops with a heavy thud. The milk resumes dripping downward.
+The mother remains perfectly still under the table, holding her crying children. She stares blankly at the ceiling. She isn't crying. Her face is carved in sheer, cold dread. The audience reads her mind: The next wave might not stop pulling.
+(TITLE CARD: 85%)
+ACT I: The Corrupted Hard Drive
+INT. EMERGENCY UN BUNKER, REYKJAVÍK - COMMAND CENTER - CONTINUOUS FROM EP 5
+The room hums with server towers. Director Marcus Cole is preparing to run a super-simulation based on the raw telemetry data Maya intercepted from the broken Dark Entity in the ocean trench.
+Dr. Maya Lin works nearby at a terminal. Her hands are heavily wrapped in sterile gauze. When she types, her jaw clenches. The nails visible beneath the tape are necrotic and black from Cold Burn radiation (exposure to the microscopic X17 anomaly in Ep 4). The physical cost of bridging dimensions is rotting her body.
+The Tension of Bad Data: Before Cole initializes the massive AI, Dr. Elias Vance steps in front of the console. He hasn't slept in three days.
+Elias: "Stop. We are betting the entire geopolitical response of this planet on a corrupted GPS file stolen from a broken drone."
+Elias points out that Maya killed the entity by draining its power to steal the data packet. The trajectory line pointing Planet Nine directly through Earth's core could be a glitch, a hallucination, or corrupted orbital noise.
+Cole: "Dr. Vance, incomplete data is the only data we will ever have. It's moving too fast. We are modeling."
+Elias shakes his head, offended by the sloppy science. Elias: "Run it if you want, Marcus. But a simulation doesn’t make it real. I’m finding the control group." Elias locks himself in the physical archives wing of the bunker.
+ACT II: The Validation of Earth
+INT. REYKJAVÍK BUNKER - THE ARCHIVES / AI CENTER (INTERCUT)
+The A-Plot: In the dark archive room, Elias completely ignores the stars. He isn't tracking dark matter; he is looking at Earth.
+He pulls up glacial ice cores from Greenland, marine sediment charts from the deep Pacific, and geological dating of ancient flood plains.
+He aligns the date: 18,000 BCE.
+The B-Plot: Meanwhile, Cole forces the global AI to ingest the alien drone's trajectory path and map it over the historical Earth of 18,000 BCE.
+The Convergence: Elias stares at an ocean-floor sediment graph showing a massive, unexplained, globally uniform layer of shattered marine debris deposited exactly 20,000 years ago. He overlays the orbital mechanics of Planet Nine (as decoded by Maya). The gravity wake of the 5-Earth-Mass pass perfectly accounts for the bizarre 20-foot global tsunami that washed away human coastal settlements at the end of the Ice Age.
+The math clicks. It wasn't a glitch. The map is real.
+INTERLUDE: Humanity Reaches
+In a dark residential basement somewhere else on Earth, a child sits cross-legged on concrete during a rolling gravity advisory. The lights are out. The adults upstairs are arguing in whispers. The child presses both palms to the floor and taps out a simple repeating pattern in answer to a faint sub-bass hum coming through the foundation. No machine reacts. No alien answers. Nothing happens. The attempt simply disappears into the dark. But it is the same instinct Maya will formalize later: the belief that pattern can make a presence legible before meaning arrives.
+Elias slowly stands up, the last shreds of his skepticism annihilated by physical bedrock evidence.
+He walks straight past Cole's operators and drops the sediment printouts beside Maya's terminal without a word. She looks up, sees that he validated the stolen map instead of trying to win the argument, and understands the gesture for what it is: not surrender, not apology, but the first honest act of trust he has offered her since Basel.
+ACT III: The Mathematics of Extinction
+INT. UN SECURITY COUNCIL VIRTUAL CHAMBER - HOURS LATER
+Cole addresses a massive, dark room illuminated only by the glowing screens of a dozen world leaders dialing in from hardened bunkers. No one is shouting.
+Elias presents the sediment confirmation. Elias: "The map is accurate. It was here before. The flood myths are gravitational scars."
+Cole turns on the main holographic display in the center of the room.
+Cole: "The entity’s engine is dying. Planet Nine’s orbit is decaying. 18,000 years ago was a glancing blow near Jupiter. This pass brings them directly through the center of our mass. Watch the screen."
+The Modern Run: Cole initiates the AI model using present-day Earth.
+On the hologram, the 5-Earth-Mass shadow ghosts cleanly through the mantle. It doesn't break a single atom of rock.
+But its wake hits. The tectonic plates groan. The Marianas Trench unzips violently across the Pacific Ring of Fire. Ocean water bulges into the stratosphere.
+The digital casualty counter silently rolls upward until it halts:
+ESTIMATED CASUALTIES (T-PLUS 2 HOURS): 6.8 BILLION.
+The world leaders watch. They are the commanders of nuclear arsenals that can glass the planet ten times over. And not a single one of them suggests firing a missile. The utter hopelessness of trying to shoot gravity is suffocatingly clear.
+The Room goes entirely silent. For ten unbroken seconds, the only sound is the low hum of the servers as humanity’s ultimate tactical command processes their irrelevance.
+ACT IV: Unprompted Aftermath
+Cole moves to shut off the catastrophic simulation, but the AI continues churning. The text counter clears.
+The Geological Convulsion: The holographic Earth keeps spinning, advancing years into the future.
+The Visual Horror: The oceans recede, toxic with released methane from the sea floor. The magma under Yellowstone and Indonesia continuously erupts. Thick, digital black clouds of volcanic ash coat the entire globe.
+The AI completes the century-long simulation of post-impact planetary settling. The final output is stark, displaying a single line of text for the stunned military generals:
+BIOSPHERE: UNINHABITABLE.
+It kills the "prepper" fantasy dead. The bunkers won’t matter. Surviving the wave just means dying in the ash.
+The room slowly empties. Cole remains alone with the rotating cinder of the Earth hanging in front of him. For one private, unguarded beat, he reaches into his coat and touches the edge of something flat in an inside pocket - photograph, paper, a life he cannot recover - then lets it go. He straightens, recomposes, and the door opens on the man who will now ask the species to build instead of fight.
+ACT V: The Engineering Mandate (The Turn)
+Cole stares at the unlivable cinder on the screen. The general in him completely dies; the astrophysicist takes command.
+Cole: "This is a trajectory problem. We cannot alter the mass. We cannot alter the speed. We can only alter the vector."
+He walks to the center of the hologram, gesturing to the silent, terrified leaders of Earth.
+Cole: "Every resource on this planet—military, industrial, civilian—is now a single engineering division with one mandate: Move that line 1.2 degrees before it reaches the inner solar system."
+He turns away from the politicians and looks directly at Elias and Maya. His arrogance is gone. It is replaced by the desperate vulnerability of an intelligent man staring at an unsolvable equation.
+Cole (quietly, an order laced with begging): "Someone find me a physicist who knows how to dig a trench in a vacuum."
+INT. BUNKER CORRIDOR - MINUTES LATER
+Maya catches Cole in the dim concrete hallway as the global council signs off. She pulls him aside. Her breathing is ragged. She unwraps the medical tape from her hand, revealing the deep, weeping black rot of the cold burn.
+Maya: "The trench, Marcus... we can only dig it with X17 polymer. But we can’t synthesize it in a clean lab. It’s an extraction. We need matter from both universes to fuse it."
+Cole stops walking.
+Maya (grimly outlining Episode 7): "To manufacture hundreds of tons of it... we have to build our factories directly on top of the active dark transit lanes. We have to tap into the local Causal Graph. We have to violently parasitize the very entities driving the planet that’s coming to kill us, stripping microscopic slivers of mass off their hulls as they fly through the Earth."
+Cole absorbs the apocalyptic logistics. Cole: "We build slaughterhouses over an invisible highway. If we pull too much mass?"
+Maya (remembering the boiling ocean from Ep 4): "We trigger a cascade. Flash-boil annihilation underneath our own power grids."
+Cole stares down the long, dark bunker hallway, absorbing the impossible, lethal dependency. To build the shield, they have to continually antagonize the monster.
+(FADE OUT)
+Writer’s Notes for Episode 6:
+Humanity Reaches: The basement child is not foreshadowing a magical chosen-one beat. It is species behavior. Long before Maya can engineer the Entropy Beacon, ordinary people are already trying to answer the universe with pattern.
+The Execution of the AI Output: Writing the text blocks ESTIMATED CASUALTIES visually on screen gives the viewer a sickening punch of clinical, inhuman truth.
+No Hollywood Speeches: Keeping the dialogue extremely tight, professional, and jargon-heavy ("BIOSPHERE: UNINHABITABLE") makes the horror profound.
+The Sunk Cost Set-Up: Maya's horrifying admission at the end instantly ensures the audience understands why Episode 7 will plunge the world into darkness. They aren't just building bombs; they are bleeding ghosts.
