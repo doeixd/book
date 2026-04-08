@@ -31,13 +31,14 @@ The math clicks. It wasn't a glitch. The map is real.
 INTERLUDE: Humanity Reaches
 In a dark residential basement somewhere else on Earth, a child sits cross-legged on concrete during a rolling gravity advisory. The lights are out. The adults upstairs are arguing in whispers. The child presses both palms to the floor and taps out a simple repeating pattern in answer to a faint sub-bass hum coming through the foundation. No machine reacts. No alien answers. Nothing happens. The attempt simply disappears into the dark. But it is the same instinct Maya will formalize later: the belief that pattern can make a presence legible before meaning arrives.
 Elias slowly stands up, the last shreds of his skepticism annihilated by physical bedrock evidence.
+Before he leaves the archive, he stops to photograph a timestamp mismatch in the sediment database with his phone instead of answering Maya's first call from the AI room. He needs the record clean before he needs to be decent.
 He walks straight past Cole's operators and drops the sediment printouts beside Maya's terminal without a word. She looks up, sees that he validated the stolen map instead of trying to win the argument, and understands the gesture for what it is: not surrender, not apology, but the first honest act of trust he has offered her since Basel.
 ACT III: The Mathematics of Extinction
 INT. UN SECURITY COUNCIL VIRTUAL CHAMBER - HOURS LATER
 Cole addresses a massive, dark room illuminated only by the glowing screens of a dozen world leaders dialing in from hardened bunkers. No one is shouting.
 Elias presents the sediment confirmation. Elias: "The map is accurate. It was here before. The flood myths are gravitational scars."
 Cole turns on the main holographic display in the center of the room.
-Cole: "The entity’s engine is dying. Planet Nine’s orbit is decaying. 18,000 years ago was a glancing blow near Jupiter. This pass brings them directly through the center of our mass. Watch the screen."
+Cole: "Planet Nine’s long-cycle energy source is failing. Its orbit is collapsing. 18,000 years ago was a glancing pass near Jupiter. This one brings their braking geometry directly through our core. Watch the screen."
 The Modern Run: Cole initiates the AI model using present-day Earth.
 On the hologram, the 5-Earth-Mass shadow ghosts cleanly through the mantle. It doesn't break a single atom of rock.
 But its wake hits. The tectonic plates groan. The Marianas Trench unzips violently across the Pacific Ring of Fire. Ocean water bulges into the stratosphere.
